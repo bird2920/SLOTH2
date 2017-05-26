@@ -1,0 +1,8 @@
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth 2\Sloth 2\bin\Debug\Sloth 2.exe.config
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth 2\Sloth 2\bin\Debug\Sloth 2.exe
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth 2\Sloth 2\bin\Debug\Sloth 2.pdb
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth 2\Sloth 2\obj\Debug\Sloth_2.Form1.resources
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth 2\Sloth 2\obj\Debug\Sloth_2.Properties.Resources.resources
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth 2\Sloth 2\obj\Debug\Sloth 2.csproj.GenerateResource.Cache
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth 2\Sloth 2\obj\Debug\Sloth 2.exe
+c:\users\richardbi\documents\visual studio 2015\Projects\Sloth 2\Sloth 2\obj\Debug\Sloth 2.pdb

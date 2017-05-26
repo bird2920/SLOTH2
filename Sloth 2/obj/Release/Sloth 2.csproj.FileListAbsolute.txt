@@ -1,0 +1,9 @@
+C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth 2\Sloth 2\bin\Release\Sloth 2.exe.config
+C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth 2\Sloth 2\bin\Release\Sloth 2.exe
+C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth 2\Sloth 2\bin\Release\Sloth 2.pdb
+C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth 2\Sloth 2\obj\Release\Sloth_2.Form1.resources
+C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth 2\Sloth 2\obj\Release\Sloth_2.Properties.Resources.resources
+C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth 2\Sloth 2\obj\Release\Sloth 2.csproj.GenerateResource.Cache
+C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth 2\Sloth 2\obj\Release\Sloth 2.exe
+C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth 2\Sloth 2\obj\Release\Sloth 2.pdb
+C:\Users\Richardbi\Documents\Visual Studio 2015\Projects\Sloth 2\Sloth 2\obj\Release\Sloth 2.csprojResolveAssemblyReference.cache
